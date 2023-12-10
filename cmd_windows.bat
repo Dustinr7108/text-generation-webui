@@ -30,5 +30,4 @@ call "%CONDA_ROOT_PREFIX%\condabin\conda.bat" activate "%INSTALL_ENV_DIR%" || ( 
 @rem enter commands
 cmd /k "%*"
 
-:end
-pause
+Oobabooga
